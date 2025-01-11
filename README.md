@@ -1,1 +1,1 @@
-# Sales_Prediction_project_repo
+# Sales_Prediction_Project_Repository
